@@ -11,8 +11,8 @@ def create_agent_executor(user_id: str):
     tools = get_tools(user_id)
 
     # Define primary and fallback LLMs
-    primary_llm = ChatOpenAI(model="gpt-3.5-turbo", max_retries=2, streaming=True)
-    fallback_llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
+    primary_llm = ChatOpenAI(model="gemini-2.5-flash", max_retries=2, streaming=True)
+    fallback_llm = ChatGoogleGenerativeAI(model="gpt-3.5-turbo")
 
     # Create fallback-enabled LLM
     llm = primary_llm.with_fallbacks([fallback_llm])
