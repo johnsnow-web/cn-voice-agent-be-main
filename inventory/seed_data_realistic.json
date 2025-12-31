@@ -1,0 +1,815 @@
+{
+    "user": [
+        {
+            "id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "name": "Charles Luna",
+            "email": "thomasrubio@hotmail.com",
+            "password": "password123",
+            "add1": "18468 Linda Extensions Apt. 672",
+            "add2": "Apt. 006",
+            "area": "furt",
+            "city": "Wardmouth",
+            "pincode": "22327",
+            "state": "Illinois",
+            "countryCode": "+91"
+        },
+        {
+            "id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "name": "Tracy Luna",
+            "email": "xramirez@murphy.biz",
+            "password": "password123",
+            "add1": "734 Daniel Circles Apt. 697",
+            "add2": "Suite 276",
+            "area": "fort",
+            "city": "Justinborough",
+            "pincode": "31428",
+            "state": "Utah",
+            "countryCode": "+91"
+        },
+        {
+            "id": "72c01892-c00f-4758-8c1d-28b0dac42a2e",
+            "name": "Roy Oliver",
+            "email": "andradeanthony@gmail.com",
+            "password": "password123",
+            "add1": "9714 Ariel Corner",
+            "add2": "Apt. 510",
+            "area": "borough",
+            "city": "Moralesmouth",
+            "pincode": "57777",
+            "state": "Kentucky",
+            "countryCode": "+91"
+        },
+        {
+            "id": "b01e88d6-0fe3-4497-a536-d666eaf0641b",
+            "name": "Suzanne Cunningham",
+            "email": "conleydominic@oliver-bruce.com",
+            "password": "password123",
+            "add1": "0990 Lisa Locks Apt. 201",
+            "add2": "Apt. 494",
+            "area": "land",
+            "city": "New Candice",
+            "pincode": "28809",
+            "state": "Nebraska",
+            "countryCode": "+91"
+        },
+        {
+            "id": "f05ca878-1ccf-4fdb-aba5-802539a3663a",
+            "name": "Chad Crawford",
+            "email": "fsmith@yahoo.com",
+            "password": "password123",
+            "add1": "9527 Nicholas Lodge",
+            "add2": "Suite 700",
+            "area": "side",
+            "city": "Angelaville",
+            "pincode": "19822",
+            "state": "California",
+            "countryCode": "+91"
+        },
+        {
+            "id": "05fc75d3-fb7d-4a9b-a3af-c609ebc6cde2",
+            "name": "April Myers DVM",
+            "email": "samantha38@hotmail.com",
+            "password": "password123",
+            "add1": "13269 Adam Pass Suite 883",
+            "add2": "Apt. 011",
+            "area": "chester",
+            "city": "Aliciamouth",
+            "pincode": "54743",
+            "state": "Maryland",
+            "countryCode": "+91"
+        },
+        {
+            "id": "d0ad32f4-664d-4b84-8416-803e6d844a03",
+            "name": "Kelsey Higgins",
+            "email": "blopez@forbes-frost.com",
+            "password": "password123",
+            "add1": "18608 Jessica View Apt. 581",
+            "add2": "Suite 210",
+            "area": "stad",
+            "city": "Kayleeview",
+            "pincode": "32294",
+            "state": "Arkansas",
+            "countryCode": "+91"
+        },
+        {
+            "id": "46092879-a3f1-4a86-b013-23f1c38e85fe",
+            "name": "Kent Meyer",
+            "email": "martinezpeter@howard-hughes.com",
+            "password": "password123",
+            "add1": "262 Garcia Islands",
+            "add2": "Apt. 190",
+            "area": "ton",
+            "city": "South Leon",
+            "pincode": "29653",
+            "state": "Montana",
+            "countryCode": "+91"
+        },
+        {
+            "id": "cb008638-5b3c-4d1c-8114-384ea15db5d7",
+            "name": "Rachel Ellis",
+            "email": "tiffanypatrick@hotmail.com",
+            "password": "password123",
+            "add1": "202 Baker Avenue",
+            "add2": "Suite 251",
+            "area": "fort",
+            "city": "Hicksmouth",
+            "pincode": "50788",
+            "state": "Tennessee",
+            "countryCode": "+91"
+        },
+        {
+            "id": "838aca06-f120-4080-9455-ab4f087ee35b",
+            "name": "Carla Smith",
+            "email": "mariathomas@sullivan.com",
+            "password": "password123",
+            "add1": "8725 Lisa Valley",
+            "add2": "Suite 059",
+            "area": "mouth",
+            "city": "Lake Andreashire",
+            "pincode": "74245",
+            "state": "Kansas",
+            "countryCode": "+91"
+        }
+    ],
+    "category": [
+        {
+            "id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Books & Literature"
+        },
+        {
+            "id": "0c7ed153-2c20-4141-83db-0d542392bd82",
+            "name": "Office Supplies"
+        },
+        {
+            "id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Electronics"
+        },
+        {
+            "id": "20d8e4f9-406c-4094-a6ac-ef558c8808be",
+            "name": "Home & Kitchen"
+        },
+        {
+            "id": "e623537d-271f-412d-b959-e333334e7470",
+            "name": "Educational Materials"
+        },
+        {
+            "id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Health & Personal Care"
+        }
+    ],
+    "product": [
+        {
+            "id": "ed8fd18b-793a-4558-b62f-327351ea1996",
+            "user_id": "46092879-a3f1-4a86-b013-23f1c38e85fe",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Wireless Headphones",
+            "price": 395.77,
+            "description": "High-quality wireless headphones with noise cancellation and up to 20 hours of battery life.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1511556820780-d912e42b4980"
+        },
+        {
+            "id": "694d63ef-3e5e-411d-83e0-c6cab078bb41",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "USB-C Charging Cable",
+            "price": 362.16,
+            "description": "Durable 2-meter USB-C charging cable compatible with smartphones, tablets, and laptops.",
+            "unit": "mtr",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77"
+        },
+        {
+            "id": "6ee396ea-42be-4b8f-8ebd-9ebd2a945ac9",
+            "user_id": "cb008638-5b3c-4d1c-8114-384ea15db5d7",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Portable Bluetooth Speaker",
+            "price": 85.06,
+            "description": "Compact Bluetooth speaker with rich sound and waterproof design for outdoor use.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6"
+        },
+        {
+            "id": "0c418aee-cba2-4acc-9a4c-b77189875cbf",
+            "user_id": "05fc75d3-fb7d-4a9b-a3af-c609ebc6cde2",
+            "category_id": "e623537d-271f-412d-b959-e333334e7470",
+            "name": "Algebra Textbook",
+            "price": 219.75,
+            "description": "Comprehensive algebra textbook for high school and college students, with practice problems.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+        },
+        {
+            "id": "dcc27a5f-0448-4f7d-9de3-0c34c0d966cf",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "0c7ed153-2c20-4141-83db-0d542392bd82",
+            "name": "Desk Organizer Set",
+            "price": 55.9,
+            "description": "Multi-compartment desk organizer for pens, paper clips, and office essentials.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+        },
+        {
+            "id": "42409bb5-3511-490e-9741-f1e98868452e",
+            "user_id": "72c01892-c00f-4758-8c1d-28b0dac42a2e",
+            "category_id": "0c7ed153-2c20-4141-83db-0d542392bd82",
+            "name": "A4 Printer Paper",
+            "price": 252.37,
+            "description": "High-quality A4 printer paper, 500 sheets per ream, suitable for all printers.",
+            "unit": "kg",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+        },
+        {
+            "id": "c67a1150-de18-4ddf-bccc-503802c348d8",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Mystery Novel",
+            "price": 231.71,
+            "description": "Gripping mystery novel with a thrilling plot and unexpected twists.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+        },
+        {
+            "id": "64ae68a8-d488-4f7d-b7f0-f8ba6148e630",
+            "user_id": "b01e88d6-0fe3-4497-a536-d666eaf0641b",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Adjustable Laptop Stand",
+            "price": 446.8,
+            "description": "Ergonomic laptop stand with adjustable height and angle for comfortable working.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77"
+        },
+        {
+            "id": "2efceeb0-40df-4a55-babb-611bbfedd874",
+            "user_id": "46092879-a3f1-4a86-b013-23f1c38e85fe",
+            "category_id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Historical Biography",
+            "price": 383.17,
+            "description": "In-depth biography of a notable historical figure, richly detailed and well-researched.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1519125323398-675f0c6d909e"
+        },
+        {
+            "id": "0149587f-400f-474c-81f1-9c9710dd7c2b",
+            "user_id": "b01e88d6-0fe3-4497-a536-d666eaf0641b",
+            "category_id": "20d8e4f9-406c-4094-a6ac-ef558c8808be",
+            "name": "Electric Kettle",
+            "price": 308.96,
+            "description": "1.7-liter electric kettle with fast boiling and auto shut-off features.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1503602642458-232111445657"
+        },
+        {
+            "id": "f2b7c3e1-9a2b-4e5c-b123-456789abcdef",
+            "user_id": "b01e88d6-0fe3-4497-a536-d666eaf0641b",
+            "category_id": "20d8e4f9-406c-4094-a6ac-ef558c8808be",
+            "name": "Toaster Oven",
+            "price": 308.96,
+            "description": "Compact toaster oven with multiple cooking modes for baking and toasting.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1503602642458-232111445657"
+        },
+        {
+            "id": "8ba36c45-9242-4eb5-b980-19df56675611",
+            "user_id": "f05ca878-1ccf-4fdb-aba5-802539a3663a",
+            "category_id": "0c7ed153-2c20-4141-83db-0d542392bd82",
+            "name": "Sticky Note Pack",
+            "price": 487.57,
+            "description": "Assorted sticky notes in various sizes and colors for office and personal use.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6"
+        },
+        {
+            "id": "bd63c896-ec69-4f9a-bc43-f7c7750f4934",
+            "user_id": "cb008638-5b3c-4d1c-8114-384ea15db5d7",
+            "category_id": "e623537d-271f-412d-b959-e333334e7470",
+            "name": "Online Coding Course",
+            "price": 102.35,
+            "description": "Interactive online course for learning Python programming, suitable for beginners.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1503602642458-232111445657"
+        },
+        {
+            "id": "2fc264a7-8af0-4eb5-b58e-77023f1d929c",
+            "user_id": "d0ad32f4-664d-4b84-8416-803e6d844a03",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "HDMI Cable",
+            "price": 113.96,
+            "description": "High-speed 2-meter HDMI cable for 4K video and audio transmission.",
+            "unit": "mtr",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77"
+        },
+        {
+            "id": "58757563-475d-48f8-946b-f7d8c9b33ce3",
+            "user_id": "72c01892-c00f-4758-8c1d-28b0dac42a2e",
+            "category_id": "e623537d-271f-412d-b959-e333334e7470",
+            "name": "Physics Workbook",
+            "price": 480.83,
+            "description": "Detailed physics workbook with exercises and solutions for advanced students.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1544377193-33dcf4d68fb5"
+        },
+        {
+            "id": "345725dd-cd01-4dd3-98e5-02852cebb44b",
+            "user_id": "05fc75d3-fb7d-4a9b-a3af-c609ebc6cde2",
+            "category_id": "e623537d-271f-412d-b959-e333334e7470",
+            "name": "Spanish Language Guide",
+            "price": 482.33,
+            "description": "Comprehensive guide for learning Spanish, including grammar and vocabulary exercises.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+        },
+        {
+            "id": "ea6177a5-8fbf-4f64-8b32-cb71eb93f4ee",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Power Bank 10000mAh",
+            "price": 21.27,
+            "description": "Compact 10000mAh power bank with fast charging for smartphones and tablets.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1523473827533-2a91d2e8689f"
+        },
+        {
+            "id": "174edcde-8a78-4074-8f5d-26b817ff3dd3",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Poetry Anthology",
+            "price": 426.48,
+            "description": "Collection of classic and modern poems from renowned poets worldwide.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7"
+        },
+        {
+            "id": "759d502b-a2f1-46c5-90b4-752b165412bc",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Sci-Fi Novel",
+            "price": 459.64,
+            "description": "Engaging science fiction novel exploring futuristic worlds and technology.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+        },
+        {
+            "id": "df68c5f7-c794-4d86-9829-77ebcf55a862",
+            "user_id": "46092879-a3f1-4a86-b013-23f1c38e85fe",
+            "category_id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Self-Help Book",
+            "price": 90.27,
+            "description": "Inspirational self-help book offering practical advice for personal growth.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+        },
+        {
+            "id": "3fb15fc4-fdeb-4219-9ed0-4728bb63a04d",
+            "user_id": "72c01892-c00f-4758-8c1d-28b0dac42a2e",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Smartwatch",
+            "price": 384.28,
+            "description": "Feature-rich smartwatch with fitness tracking and smartphone connectivity.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1519125323398-675f0c6d909e"
+        },
+        {
+            "id": "d5720568-a841-4eb1-a25e-a97e6d48eca2",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "0c7ed153-2c20-4141-83db-0d542392bd82",
+            "name": "Ballpoint Pen Set",
+            "price": 10.54,
+            "description": "Set of 12 high-quality ballpoint pens for smooth writing in black ink.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1511556820780-d912e42b4980"
+        },
+        {
+            "id": "ca64909c-c8fc-49b6-b31e-41f761c552fa",
+            "user_id": "d0ad32f4-664d-4b84-8416-803e6d844a03",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Hand Sanitizer",
+            "price": 322.65,
+            "description": "500ml hand sanitizer with 70% alcohol for effective germ protection.",
+            "unit": "ltr",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7"
+        },
+        {
+            "id": "3dd0837c-ce42-4eea-aefd-d8c85f6a0820",
+            "user_id": "cb008638-5b3c-4d1c-8114-384ea15db5d7",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Face Mask Pack",
+            "price": 289.36,
+            "description": "Pack of 50 disposable face masks for daily use and protection.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+        },
+        {
+            "id": "2c0cb91e-9708-4155-ad67-aac21dfa34d3",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "20d8e4f9-406c-4094-a6ac-ef558c8808be",
+            "name": "Non-Stick Cookware Set",
+            "price": 414.35,
+            "description": "5-piece non-stick cookware set for versatile cooking in the kitchen.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1544377193-33dcf4d68fb5"
+        },
+        {
+            "id": "3b5c2053-f61e-4f31-97eb-319948cd38a8",
+            "user_id": "838aca06-f120-4080-9455-ab4f087ee35b",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Vitamin Supplements",
+            "price": 134.21,
+            "description": "Daily multivitamin supplements to support overall health and immunity.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1544377193-33dcf4d68fb5"
+        },
+        {
+            "id": "c73f2a38-bb4d-4b49-9b76-93df83b3cd42",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "e623537d-271f-412d-b959-e333334e7470",
+            "name": "History Textbook",
+            "price": 291.25,
+            "description": "Detailed history textbook covering world events from ancient to modern times.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7"
+        },
+        {
+            "id": "cdcc4118-da07-4785-9251-3574374eb783",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Shampoo Bottle",
+            "price": 56.64,
+            "description": "400ml nourishing shampoo for healthy, shiny hair, suitable for all hair types.",
+            "unit": "ltr",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77"
+        },
+        {
+            "id": "4b841e9a-9ada-422d-ad03-146d5dc9a83d",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "20d8e4f9-406c-4094-a6ac-ef558c8808be",
+            "name": "Ceramic Dinner Plates",
+            "price": 80.23,
+            "description": "Set of 4 durable ceramic dinner plates, dishwasher and microwave safe.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f"
+        },
+        {
+            "id": "f0f252d4-75de-4f80-a4ea-fa0b8d619f9f",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Wireless Mouse",
+            "price": 193.49,
+            "description": "Ergonomic wireless mouse with adjustable DPI for precise control.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+        },
+        {
+            "id": "58f97321-014c-417a-99db-a7e479e2ee37",
+            "user_id": "cb008638-5b3c-4d1c-8114-384ea15db5d7",
+            "category_id": "e623537d-271f-412d-b959-e333334e7470",
+            "name": "Math Practice Book",
+            "price": 231.79,
+            "description": "Practice book with math exercises for grades 6-8, including solutions.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36"
+        },
+        {
+            "id": "f3e06d77-bc59-4197-ab21-71c4909a0791",
+            "user_id": "72c01892-c00f-4758-8c1d-28b0dac42a2e",
+            "category_id": "0c7ed153-2c20-4141-83db-0d542392bd82",
+            "name": "Stapler",
+            "price": 445.98,
+            "description": "Heavy-duty stapler for office use, capable of stapling up to 50 sheets.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+        },
+        {
+            "id": "6dc8c55c-e78d-4459-82fa-0dd403a009dc",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "External Hard Drive",
+            "price": 370.82,
+            "description": "1TB external hard drive with USB 3.0 for fast data transfer and backup.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+        },
+        {
+            "id": "4c3e86d6-25c3-4125-a538-d42b27d953be",
+            "user_id": "cb008638-5b3c-4d1c-8114-384ea15db5d7",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "First Aid Kit",
+            "price": 203.36,
+            "description": "Compact first aid kit with essential supplies for home and travel emergencies.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+        },
+        {
+            "id": "6d2238b9-5877-4855-a310-ea5455022bad",
+            "user_id": "f05ca878-1ccf-4fdb-aba5-802539a3663a",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Body Lotion",
+            "price": 41.85,
+            "description": "Moisturizing body lotion with aloe vera for smooth and hydrated skin.",
+            "unit": "ltr",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36"
+        },
+        {
+            "id": "87c3793c-2be9-417b-8de9-ee330d36b9bc",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Toothpaste",
+            "price": 128.23,
+            "description": "Fluoride toothpaste for cavity protection and fresh breath, 200ml tube.",
+            "unit": "ltr",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1556740738-6b4a6d8b8b8b"
+        },
+        {
+            "id": "41338564-e030-4773-bbc5-f509180f1593",
+            "user_id": "a69c21ae-d350-4a16-a201-6ce977d1162d",
+            "category_id": "974c2916-e810-4dd7-8d9e-b27590a8cd5a",
+            "name": "Wireless Keyboard",
+            "price": 408.77,
+            "description": "Sleek wireless keyboard with quiet keys and long battery life.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+        },
+        {
+            "id": "231eec07-7bbf-4234-9af1-ead6dea5569b",
+            "user_id": "d0ad32f4-664d-4b84-8416-803e6d844a03",
+            "category_id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Cookbook",
+            "price": 261.72,
+            "description": "Collection of easy-to-follow recipes for home cooking, from appetizers to desserts.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1511556820780-d912e42b4980"
+        },
+        {
+            "id": "5237d755-8a8e-49fc-a26c-1fc14d4fb0a3",
+            "user_id": "838aca06-f120-4080-9455-ab4f087ee35b",
+            "category_id": "328d38c7-4ff2-47b3-97fd-26c885eaf9b3",
+            "name": "Travel Guidebook",
+            "price": 102.37,
+            "description": "Detailed travel guidebook with tips and itineraries for popular destinations.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1523473827533-2a91d2e8689f"
+        },
+        {
+            "id": "b070bf11-8d49-4be7-8b2f-b1c834b772f3",
+            "user_id": "ef2c84a1-33a6-40eb-a8e2-6b448c55d48d",
+            "category_id": "ceef8614-5751-42ce-abb7-b7deacb23919",
+            "name": "Yoga Mat",
+            "price": 330.43,
+            "description": "Non-slip yoga mat with extra cushioning for comfort during workouts.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f"
+        },
+        {
+            "id": "6695bf13-2037-4a8c-ae08-efd5c8272946",
+            "user_id": "cb008638-5b3c-4d1c-8114-384ea15db5d7",
+            "category_id": "20d8e4f9-406c-4094-a6ac-ef558c8808be",
+            "name": "Coffee Maker",
+            "price": 167.15,
+            "description": "Programmable coffee maker for brewing fresh coffee with ease.",
+            "unit": "pcs",
+            "deleted": false,
+            "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6"
+        }
+    ],
+    "inventory": [
+        {
+            "product_id": "ed8fd18b-793a-4558-b62f-327351ea1996",
+            "quantity": 10,
+            "reorderLevel": 14
+        },
+        {
+            "product_id": "694d63ef-3e5e-411d-83e0-c6cab078bb41",
+            "quantity": 54,
+            "reorderLevel": 9
+        },
+        {
+            "product_id": "6ee396ea-42be-4b8f-8ebd-9ebd2a945ac9",
+            "quantity": 87,
+            "reorderLevel": 12
+        },
+        {
+            "product_id": "0c418aee-cba2-4acc-9a4c-b77189875cbf",
+            "quantity": 90,
+            "reorderLevel": 12
+        },
+        {
+            "product_id": "dcc27a5f-0448-4f7d-9de3-0c34c0d966cf",
+            "quantity": 60,
+            "reorderLevel": 19
+        },
+        {
+            "product_id": "42409bb5-3511-490e-9741-f1e98868452e",
+            "quantity": 36,
+            "reorderLevel": 10
+        },
+        {
+            "product_id": "c67a1150-de18-4ddf-bccc-503802c348d8",
+            "quantity": 27,
+            "reorderLevel": 20
+        },
+        {
+            "product_id": "64ae68a8-d488-4f7d-b7f0-f8ba6148e630",
+            "quantity": 76,
+            "reorderLevel": 6
+        },
+        {
+            "product_id": "2efceeb0-40df-4a55-babb-611bbfedd874",
+            "quantity": 55,
+            "reorderLevel": 6
+        },
+        {
+            "product_id": "0149587f-400f-474c-81f1-9c9710dd7c2b",
+            "quantity": 41,
+            "reorderLevel": 14
+        },
+        {
+            "product_id": "8ba36c45-9242-4eb5-b980-19df56675611",
+            "quantity": 69,
+            "reorderLevel": 17
+        },
+        {
+            "product_id": "bd63c896-ec69-4f9a-bc43-f7c7750f4934",
+            "quantity": 69,
+            "reorderLevel": 7
+        },
+        {
+            "product_id": "2fc264a7-8af0-4eb5-b58e-77023f1d929c",
+            "quantity": 69,
+            "reorderLevel": 10
+        },
+        {
+            "product_id": "58757563-475d-48f8-946b-f7d8c9b33ce3",
+            "quantity": 89,
+            "reorderLevel": 18
+        },
+        {
+            "product_id": "345725dd-cd01-4dd3-98e5-02852cebb44b",
+            "quantity": 18,
+            "reorderLevel": 8
+        },
+        {
+            "product_id": "ea6177a5-8fbf-4f64-8b32-cb71eb93f4ee",
+            "quantity": 88,
+            "reorderLevel": 16
+        },
+        {
+            "product_id": "174edcde-8a78-4074-8f5d-26b817ff3dd3",
+            "quantity": 54,
+            "reorderLevel": 15
+        },
+        {
+            "product_id": "759d502b-a2f1-46c5-90b4-752b165412bc",
+            "quantity": 19,
+            "reorderLevel": 16
+        },
+        {
+            "product_id": "df68c5f7-c794-4d86-9829-77ebcf55a862",
+            "quantity": 53,
+            "reorderLevel": 5
+        },
+        {
+            "product_id": "3fb15fc4-fdeb-4219-9ed0-4728bb63a04d",
+            "quantity": 78,
+            "reorderLevel": 6
+        },
+        {
+            "product_id": "d5720568-a841-4eb1-a25e-a97e6d48eca2",
+            "quantity": 90,
+            "reorderLevel": 19
+        },
+        {
+            "product_id": "ca64909c-c8fc-49b6-b31e-41f761c552fa",
+            "quantity": 58,
+            "reorderLevel": 11
+        },
+        {
+            "product_id": "3dd0837c-ce42-4eea-aefd-d8c85f6a0820",
+            "quantity": 30,
+            "reorderLevel": 17
+        },
+        {
+            "product_id": "2c0cb91e-9708-4155-ad67-aac21dfa34d3",
+            "quantity": 56,
+            "reorderLevel": 8
+        },
+        {
+            "product_id": "3b5c2053-f61e-4f31-97eb-319948cd38a8",
+            "quantity": 98,
+            "reorderLevel": 12
+        },
+        {
+            "product_id": "c73f2a38-bb4d-4b49-9b76-93df83b3cd42",
+            "quantity": 40,
+            "reorderLevel": 19
+        },
+        {
+            "product_id": "cdcc4118-da07-4785-9251-3574374eb783",
+            "quantity": 11,
+            "reorderLevel": 19
+        },
+        {
+            "product_id": "4b841e9a-9ada-422d-ad03-146d5dc9a83d",
+            "quantity": 49,
+            "reorderLevel": 11
+        },
+        {
+            "product_id": "f0f252d4-75de-4f80-a4ea-fa0b8d619f9f",
+            "quantity": 61,
+            "reorderLevel": 10
+        },
+        {
+            "product_id": "58f97321-014c-417a-99db-a7e479e2ee37",
+            "quantity": 35,
+            "reorderLevel": 10
+        },
+        {
+            "product_id": "f3e06d77-bc59-4197-ab21-71c4909a0791",
+            "quantity": 6,
+            "reorderLevel": 9
+        },
+        {
+            "product_id": "6dc8c55c-e78d-4459-82fa-0dd403a009dc",
+            "quantity": 50,
+            "reorderLevel": 11
+        },
+        {
+            "product_id": "4c3e86d6-25c3-4125-a538-d42b27d953be",
+            "quantity": 80,
+            "reorderLevel": 13
+        },
+        {
+            "product_id": "6d2238b9-5877-4855-a310-ea5455022bad",
+            "quantity": 15,
+            "reorderLevel": 19
+        },
+        {
+            "product_id": "87c3793c-2be9-417b-8de9-ee330d36b9bc",
+            "quantity": 82,
+            "reorderLevel": 5
+        },
+        {
+            "product_id": "41338564-e030-4773-bbc5-f509180f1593",
+            "quantity": 25,
+            "reorderLevel": 8
+        },
+        {
+            "product_id": "231eec07-7bbf-4234-9af1-ead6dea5569b",
+            "quantity": 46,
+            "reorderLevel": 8
+        },
+        {
+            "product_id": "5237d755-8a8e-49fc-a26c-1fc14d4fb0a3",
+            "quantity": 74,
+            "reorderLevel": 12
+        },
+        {
+            "product_id": "b070bf11-8d49-4be7-8b2f-b1c834b772f3",
+            "quantity": 40,
+            "reorderLevel": 8
+        },
+        {
+            "product_id": "6695bf13-2037-4a8c-ae08-efd5c8272946",
+            "quantity": 88,
+            "reorderLevel": 8
+        }
+    ]
+}
